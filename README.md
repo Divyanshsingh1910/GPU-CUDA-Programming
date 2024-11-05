@@ -15,3 +15,4 @@
 - [Unified Memory in CUDA 6](https://developer.nvidia.com/blog/unified-memory-in-cuda-6/)
 - [Unified Memory for CUDA Beginners](https://developer.nvidia.com/blog/unified-memory-in-cuda-6/)
 - [Maximizing Unified Memory Performance in CUDA](https://developer.nvidia.com/blog/maximizing-unified-memory-performance-cuda/)
+- [Parallel Prefix Sum(scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
